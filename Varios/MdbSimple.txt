@@ -1,0 +1,1 @@
+Hay que crear en GlassFish la cola: jms/test como PhysicalQueue y la factoría de conexiones jms/testFactory con un pool de 8

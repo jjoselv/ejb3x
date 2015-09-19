@@ -1,0 +1,16 @@
+Ejemplos de esta carpeta
+
+DemoWs
+Uso de servicios web con ejbs
+
+EjemploEmail
+Envío de correo electrónico
+
+EjemploTimer
+Uso de los servicios de timing para realizar tareas periódicas. Demostración del uso de interceptors.
+
+ModuloCalculador
+Servicio Web publicado en un módulo EJB
+
+ClienteCalculador1
+Sistema cliente de "ModuloCalculador"

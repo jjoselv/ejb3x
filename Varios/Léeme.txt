@@ -1,0 +1,21 @@
+AplicacionWebConEjb: Uso de EJBs dentro de una aplicación Web estándar
+
+EjbVarios: Algunos ejemplos de los EJBs 3.X
+
+EjemploSimple
+Uso simple de la persistencia con una sóla clase. 
+Las operaciones persistentes se llevan a cabo desde un EJB de sesión sin estado.
+
+MdbSimple
+Uso de un mdb desde una servlet
+
+EjemploPersistencia
+Integración de JPA con EJBs
+
+EjemploSb
+Ejemplo del uso conjunto de los siguientes EJBs:
+Sesión sin estado, usando un nombre JNDI explícito, en cooperación con un bean dirigido por mensajes
+Sesión con estado, usando un nombre JNDI explícito
+Bean dirigido por mensajes, asignado a una cola
+El sistema cliente muestra cómo localizar un recurso mediante JNDI, sin recurrir a la inyección de dependencias
+El programa debe lanzarse desde el módulo que contiene a la aplicación cliente

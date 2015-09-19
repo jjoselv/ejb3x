@@ -1,0 +1,5 @@
+Ejemplos de esta carpeta
+
+AutenticarApp
+Uso de un EJB de sesión sin estado para simular la autenticación de un usuario en un sistema
+El programa puede lanzarse desde el módulo Web o desde el módulo que contiene a la aplicación cliente
