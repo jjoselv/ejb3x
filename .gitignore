@@ -116,3 +116,8 @@ hs_err_pid*
 /Timers/ModuloCalculador/dist/
 /Timers/ClienteCalculadorJee7/nbproject/private/
 /Timers/ClienteCalculadorJee7/build/
+/Varios/MdbSimple/dist/
+/Varios/EjbVariosJee7/EjbVariosJee7-war/build/
+/Varios/EjbVariosJee7/EjbVariosJee7-ejb/build/
+/Varios/EjbVariosJee7/EjbVariosJee7-ejb/dist/
+/Varios/EjemploPersistencia/dist/
