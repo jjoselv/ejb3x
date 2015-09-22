@@ -1,6 +1,7 @@
 AplicacionWebConEjb: Uso de EJBs dentro de una aplicación Web estándar
 
-EjbVarios: Algunos ejemplos de los EJBs 3.X
+EjbVarios: Algunos ejemplos de los EJBs 3.X con JEE6
+EjbVariosJee7: Algunos ejemplos de los EJBs 3.X con JEE7
 
 EjemploSimple
 Uso simple de la persistencia con una sóla clase. 

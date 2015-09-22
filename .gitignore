@@ -110,3 +110,6 @@ hs_err_pid*
 /Varios/EjbVarios/build/
 /Varios/EjbVarios/EjbVarios-war/dist/
 /Varios/EjbVarios/EjbVarios-war/build/
+/Varios/EjbVariosJee7/EjbVariosJee7-ejb/nbproject/private/
+/Varios/EjbVariosJee7/EjbVariosJee7-war/nbproject/private/
+/Varios/EjbVariosJee7/nbproject/private/
