@@ -20,3 +20,5 @@ Sesión con estado, usando un nombre JNDI explícito
 Bean dirigido por mensajes, asignado a una cola
 El sistema cliente muestra cómo localizar un recurso mediante JNDI, sin recurrir a la inyección de dependencias
 El programa debe lanzarse desde el módulo que contiene a la aplicación cliente
+
+EjemploCdi0001: Uso de contextos e ID
