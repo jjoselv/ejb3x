@@ -22,3 +22,5 @@ El sistema cliente muestra cómo localizar un recurso mediante JNDI, sin recurrir
 El programa debe lanzarse desde el módulo que contiene a la aplicación cliente
 
 EjemploCdi0001: Uso de contextos e ID
+
+EjemploJms20: Uso de la versión 2.0 de JMS bajo JEE7
