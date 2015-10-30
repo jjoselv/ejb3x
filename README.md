@@ -1,2 +1,2 @@
-# ejb3x_21_09_2015
+# ejb3x
 Ejemplos del curso de EJB3.X
