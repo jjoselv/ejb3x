@@ -5,15 +5,12 @@
  */
 package beans;
 
-import java.util.Queue;
 import javax.annotation.Resource;
 import javax.ejb.Stateless;
 import javax.ejb.LocalBean;
 import javax.inject.Inject;
 import javax.jms.Destination;
 import javax.jms.JMSContext;
-import javax.ws.rs.GET;
-import javax.ws.rs.Path;
 import modelo.Persona;
 
 /**

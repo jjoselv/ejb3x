@@ -21,7 +21,7 @@ public class TimerBean {
     }
 
     @Schedule(minute = "*/5", hour = "*")
-    public void realizarProcesoBatchCadaCincoMinutos() {
+    public void realizarProcesoBatchCadaCincoMinutos() {        
     }
     // Add business logic below. (Right-click in editor and choose
     // "Insert Code > Add Business Method")
